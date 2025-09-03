@@ -5,6 +5,12 @@
         	"Pos": "TopLeft",
         	"Persist": true,
         	"FadeTime": 60
+    	},
+    	{
+        	"URL": "https://i.ibb.co/DDRVsftM/leaderboard.png",
+        	"Pos": "MidLeft",
+        	"Persist": false,
+        	"FadeTime": 30
     	}
 	]
 }
