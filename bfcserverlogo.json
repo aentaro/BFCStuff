@@ -3,8 +3,8 @@
     	{
         	"URL": "https://i.ibb.co/jPLL99hk/bfclogo256.png",
         	"Pos": "TopLeft",
-        	"Persist": true,
-        	"FadeTime": 60
+        	"Persist": false,
+        	"FadeTime": 30
     	},
     	{
         	"URL": "https://i.ibb.co/DDRVsftM/leaderboard.png",
