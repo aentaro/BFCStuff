@@ -1,0 +1,10 @@
+{
+	"Images": [
+    	{
+        	"URL": "https://i.ibb.co/vCFVDbYR/bfclogo256.png",
+        	"Pos": "TopLeft",
+        	"Persist": true,
+        	"FadeTime": 60
+    	}
+	]
+}
